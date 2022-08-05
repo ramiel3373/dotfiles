@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/srv/ftp'
+let g:netrw_dirhist_5='/home/canis/e'
+let g:netrw_dirhist_4='/usr/include/GLFW'
+let g:netrw_dirhist_3='/home/canis/e'
+let g:netrw_dirhist_2='/etc/alsa/conf.d'
+let g:netrw_dirhist_1='/etc/alsa'
